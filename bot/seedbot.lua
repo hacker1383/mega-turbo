@@ -419,6 +419,12 @@ Will return group logs
 !banlist
 Will return group ban list
 
+!time [city]
+See a tims of citys.
+
+!voice [text]
+
+
 » U can use both "/" and "!" 
 
 » Only mods, owner and admin can add bots in group
