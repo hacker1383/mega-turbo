@@ -227,7 +227,8 @@ function create_config( )
     "admin",
     "Voice",
     "Photo",
-    "Sticker
+    "Sticker",
+    "Linkpv"
     },
     sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
@@ -435,6 +436,11 @@ permutational photo to sticker
 !photo 
 permutational sticker to photo
 (By reply)
+
+!linkpv
+Get link in your pv!
+
+
 
 
 
