@@ -423,6 +423,17 @@ Will return group ban list
 See a tims of citys.
 
 !voice [text]
+permutational text to voice 
+
+!sticker 
+permutational photo to sticker 
+(By reply)
+
+!photo 
+permutational sticker to photo
+(By reply)
+
+
 
 
 » U can use both "/" and "!" 
